@@ -1,0 +1,30 @@
+_repo: The-Young-Man-in-Business_31494
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31494-h/images/ill_cover.jpg
+creator:
+  author:
+    agent_name: Bok, Edward William
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '1223'
+    url: http://www.gutenberg.org/2009/agents/1223
+    wikipedia: http://en.wikipedia.org/wiki/Edward_W._Bok
+description: ''
+gutenberg_issued: '2010-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31494'
+  lccn: '00004546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HF'
+- !lcsh 'Business'
+- !lcsh 'Success'
+- !lcsh 'Young men'
+title: The Young Man in Business
+url: http://www.gutenberg.org/ebooks/31494
